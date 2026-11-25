@@ -19,3 +19,11 @@ li {
     font-weight: bold;
     color: seagreen;
 }
+
+.recommandee {
+    color: green;
+}
+
+.deconseillee {
+    color: red;
+}
